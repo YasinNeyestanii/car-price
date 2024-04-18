@@ -1,5 +1,5 @@
 # Hi, I'm Yain Neyestani
- Welcome to my Github profile, it's a regression model repository
+ Welcome to my Github repository, it's a regression model repository
 #  About repository:
  In this repository, I have placed the data used in the model training
  and the page of my jupyter notebook, which is the running code of the model training, 
